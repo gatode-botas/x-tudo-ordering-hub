@@ -1,7 +1,1 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "tanstack-start-app",
-  "compatibility_date": "2025-09-24",
-  "compatibility_flags": ["nodejs_compat"],
-  "main": "@tanstack/react-start/server-entry",
-}
+{ "$schema": "node_modules/wrangler/config-schema.json", "name": "x-tudo-ordering-hub", "compatibility_date": "2025-09-24", "compatibility_flags": ["nodejs_compat"], "main": "@tanstack/react-start/server-entry", "workers_dev": true }
